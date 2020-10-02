@@ -83,6 +83,7 @@ try:
 	while  f != 1 and 2 :
 	 	print"CHOOSE FROM THE LIST"
 	 	time.sleep(.3)
+                sys.exit()
 	else :
 	 	print"deleting posts ".center(56)
 	 	time.sleep(1)
